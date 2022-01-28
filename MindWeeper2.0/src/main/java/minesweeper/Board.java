@@ -6,7 +6,7 @@ import java.util.Random;
  * Die Klasse Board kontrolliert die Eingaben vom Benutzer.
  * Ist ausserdem auch für den Ablauf des Spiels zuständig.
  *
- * @author Y. Tran
+ * @author Julia Hutmacher
  * @version 0.8
  */
 
